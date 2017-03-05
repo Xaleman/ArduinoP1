@@ -1,0 +1,4 @@
+git add file
+git commit -m "Descripción del commit"
+git remote add origin https://github.com/Xaleman/ArduinoP1.git
+git push -u origin master
